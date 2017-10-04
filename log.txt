@@ -1,0 +1,29 @@
+commit b4c685151bb225451fd940701d1b16a7bb2da546
+Author: Drewmac <apg4944@g.rit.edu>
+Date:   Tue May 2 15:34:47 2017 -0400
+
+    Bug fixes and performance improvements
+
+commit ea5f88756d6ea802f0b0622a854324a682adfc96
+Author: Drewmac <apg4944@g.rit.edu>
+Date:   Tue May 2 15:29:41 2017 -0400
+
+    Fixed bug which occurred for an odd number of contestants
+
+commit 6455678d1956fba2369177972badc002893f4874
+Author: Drewmac <apg4944@g.rit.edu>
+Date:   Tue May 2 15:23:22 2017 -0400
+
+    Completed implementation of all files. Threads work correctly for current tests
+
+commit 19049a8cc89dd1bafb23ec11f9c962a231b297bf
+Author: Drewmac <apg4944@g.rit.edu>
+Date:   Mon May 1 21:38:23 2017 -0400
+
+    Completed basic layout for all functions
+
+commit 7eddcaf89cf05b4720d5f3d5b8f81c56d126436a
+Author: Drewmac <apg4944@g.rit.edu>
+Date:   Sun Apr 30 18:32:43 2017 -0400
+
+    Stubbed out all files and methods. Completed in-lab
